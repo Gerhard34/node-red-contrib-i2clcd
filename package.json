@@ -4,6 +4,7 @@
     "description"  : "a node-red node that outputs to a 1602 i2c lcd",
     "dependencies": {
         "i2c-lcd"  : "1.0.*"
+        "git"      : "https://github.com/Gerhard34/i2c-lcd.git"
     },
     "keywords": [ "node-red", "i2c", "lcd", "raspberry" ],
     "node-red"     : {
